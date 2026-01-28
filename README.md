@@ -1,8 +1,8 @@
 # 5-Stage Pipelined RISC-V CPU
 
-![Status](https://img.shields.io/badge/Status-Complete-green)
-![Tools](https://img.shields.io/badge/Tools-Logisim--Evolution%20|%20Python%20|%20Bash-blue)
-![Architecture](https://img.shields.io/badge/Architecture-RISC--V%2032I-orange)
+![ISA](https://img.shields.io/badge/ISA-RISC--V_RV32I-b51800)
+![EDA](https://img.shields.io/badge/EDA-Logisim--Evolution-005f9e)
+![Verification](https://img.shields.io/badge/Verification-Python_%26_Bash-success)
 
 ## 📌 Overview
 This repository contains a fully functional **32-bit 5-stage pipelined RISC-V processor** designed and simulated in Logisim Evolution. 
@@ -44,8 +44,8 @@ The reliability of the CPU is verified through a rigorous testing suite located 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/GrantAyala/Project-3.git](https://github.com/GrantAyala/Project-3.git)
-    cd Project-3
+    git clone [https://github.com/GrantAyala/RV32I-Pipelined-Core](https://github.com/GrantAyala/RV32I-Pipelined-Core)
+    cd RV32I-Pipelined-Core
     ```
 2.  **Run the test suite:**
     ```bash
