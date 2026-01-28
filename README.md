@@ -1,5 +1,3 @@
-# CS61CPU
+# 5-Stage Pipelined CPU in Logisim
 
-Look ma, I made a CPU! Here's what I did:
-
--
+Based on CS61C project.
